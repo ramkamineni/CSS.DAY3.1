@@ -19,8 +19,12 @@
     height: 50px;
     width: 50px;
     border-radius: 100px;
-    background-color: red;
+    background-color: black;
     margin: -245px 0px 0px 80px;
+}
+.d2:hover
+{
+    background-color: red;
 }
 .d3
 {
@@ -28,8 +32,12 @@
     height: 50px;
     width: 50px;
     border-radius: 100px;
-    background-color: orange;
+    background-color: black;
     margin: 20px 0px 0px 80px;  
+}
+.d3:hover
+{
+    background-color: orange;
 }
 .d4
 {
@@ -37,8 +45,12 @@
     height: 50px;
     width: 50px;
     border-radius: 100px;
-    background-color: green;
+    background-color: black;
     margin: 20px 0px 0px 80px;
+}
+.d4:hover
+{
+    background-color: green;
 }
 .d5
 {
@@ -62,20 +74,4 @@
     font-size: larger;
     color: black;
     margin: -440px 0px 0px 140px;
-}
-#a1
-{
-    color: red;
-    font-size: x-large;
-}
-#a2
-{
-    color: orange;
-    font-size:x-large ;
-}
-.d8
-{
-    font-size: larger;
-    color: black;
-    margin: 0px 0px 0px 140px;
 }
